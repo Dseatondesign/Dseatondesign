@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  
 
 <!--
 **Dseatondesign/Dseatondesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 Connect with me:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiasharif&layout=compact)](https://github.com/asiasharif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dseatondesign&layout=compact)](https://github.com/Dseatondesign) 
 
