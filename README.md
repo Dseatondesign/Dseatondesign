@@ -8,6 +8,7 @@ Through my work with Abyss Solutions, Linkmate, and Dropbio, I have added a stro
 
 🇧🇷 𝐌𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬:
 I enjoy hiking with friends, learning Portuguese 🇧🇷
+
 📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭:
 📧 dseatondesign@gmail.com
 <!--
