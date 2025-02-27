@@ -4,7 +4,7 @@ With 9 years of varied design experience, I love to explore through my intuition
 My pursuit of doing well at building design has led me through an exploration of diverse fields like roof plumbing, home planning, and 3D design and instilled in me an appreciation for standards, regulations, data optimisation and design theory. I love understanding why design tradeoffs and constraints exist and that with a logical argument, they can be navigated to achieve a positive outcome for everyone involved. 
 
 🌱 𝐌𝐲 𝐬𝐤𝐢𝐥𝐥𝐬:
-Through my work with Abyss Solutions, Linkmate, and Dropbio, I have added a strong understanding of research, product strategy, and designing for AI. I relish the opportunity to hear new perspectives and look for core issues. The stories I learn and the solutions I work on reward me not only at work but also often personally.
+Through my work with Abyss Solutions, Linkmate, and Dropbio, I have added a strong understanding of research, product strategy, and designing for AI. I relish the opportunity to hear new perspectives and look for core issues. The stories I learn and the solutions I work on reward me not only at work but also personally.
 
 🇧🇷 𝐌𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬:
 I enjoy hiking with friends, learning Portuguese 🇧🇷
