@@ -7,8 +7,7 @@ My pursuit of doing well at building design has led me through an exploration of
 Through my work with Abyss Solutions, Linkmate, and Dropbio, I have added a strong understanding of research, product strategy, and designing for AI. I relish the opportunity to hear new perspectives and look for core issues. The stories I learn and the solutions I work on reward me not only at work but also often personally.
 
 🇧🇷 𝐌𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬:
-I enjoy hiking with friends, learning Portuguese 🇧🇷, sketching (buildings and nature) and immersing myself in books on product design and Brazilian history.
-
+I enjoy hiking with friends, learning Portuguese 🇧🇷
 📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭:
 📧 dseatondesign@gmail.com
 <!--
