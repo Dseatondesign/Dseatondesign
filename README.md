@@ -1,16 +1,22 @@
-## Hi  
-With 9 years of varied design experience, I love to explore through my intuition, asking deep questions to seek clear insights into the needs of users that I can share confidently with my team. I am a non-academic navigating academic language and learning challenging concepts to explain them clearly and I think this is what makes me a great designer.
+I bring a unique blend of experience spanning user-centered design, spatial 3D interfaces, regulatory compliance, and B2B SaaS product development, with a focus on regulated industries like health tech and proptech.
 
-My pursuit of doing well at building design has led me through an exploration of diverse fields like roof plumbing, home planning, and 3D design and instilled in me an appreciation for standards, regulations, data optimisation and design theory. I love understanding why design tradeoffs and constraints exist and that with a logical argument, they can be navigated to achieve a positive outcome for everyone involved. 
+With a foundation in building design and compliance, I understand how physical, digital, and legal systems intersect — enabling me to craft intuitive, compliant experiences for complex platforms.
 
-🌱 𝐌𝐲 𝐬𝐤𝐢𝐥𝐥𝐬:
-Through my work with Abyss Solutions, Linkmate, and Dropbio, I have added a strong understanding of research, product strategy, and designing for AI. I relish the opportunity to hear new perspectives and look for core issues. The stories I learn and the solutions I work on reward me not only at work but also personally.
+In addition to traditional UX, I have hands-on experience designing for 3D spatial environments and tools that integrate spatial data, which gives me an edge in projects involving geospatial data, digital twins, or immersive experiences.
 
-🇧🇷 𝐌𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬:
-I enjoy hiking with friends, learning Portuguese 🇧🇷
+My strong research skills allow me to confidently conduct user interviews, synthesize insights into actionable design decisions, and map user journeys across complex workflows.
+
+In the health tech space, I’ve conducted independent research into wearable technology through my work with DropBio, focusing on how to present health data in privacy-conscious, actionable ways. Whether tackling spatial challenges in proptech or simplifying health data interactions, I align user needs, business goals, and compliance requirements.
+
+I’m proficient in Figma for design collaboration, prototyping, and design system management. I thrive in cross-functional teams where research-driven design decisions intersect with regulatory frameworks.
+
+I’m particularly drawn to health tech opportunities, where technology has the potential to positively impact lives. Open to enterprise UX roles across health tech, proptech, and other regulated sectors, I’m excited to contribute my systems thinking, compliance awareness, and research-driven design expertise to forward-thinking teams solving real-world problems.
 
 📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭:
 📧 dseatondesign@gmail.com
+
+𝐎𝐩𝐞𝐧 𝐭𝐨 𝐫𝐞𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧
+
 <!--
 **Dseatondesign/Dseatondesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
