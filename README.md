@@ -1,4 +1,4 @@
-UX & Product Designer experienced in SaaS and research-led design. I focus on making complex systems easier to navigate through AI tools, spatial thinking, and scalable UX. My experience spans structured, compliance-driven environments where clarity and trust matter.
+Experienced in SaaS and research-led design. I focus on making complex systems easier to navigate through AI tools, spatial thinking, and scalable UX. My experience spans structured, compliance-driven environments where clarity and trust matter.
 
 I’m excited to contribute my systems thinking, compliance awareness, and research-driven design expertise to forward-thinking teams solving real-world problems.
 
