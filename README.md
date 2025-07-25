@@ -10,7 +10,7 @@ In the health tech space, I’ve conducted independent research into wearable te
 
 I’m proficient in Figma for design collaboration, prototyping, and design system management. I thrive in cross-functional teams where research-driven design decisions intersect with regulatory frameworks.
 
-I’m particularly drawn to health tech opportunities, where technology has the potential to positively impact lives. Open to enterprise UX roles across health tech, proptech, and other regulated sectors, I’m excited to contribute my systems thinking, compliance awareness, and research-driven design expertise to forward-thinking teams solving real-world problems.
+I’m excited to contribute my systems thinking, compliance awareness, and research-driven design expertise to forward-thinking teams solving real-world problems.
 
 📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭:
 📧 dseatondesign@gmail.com
